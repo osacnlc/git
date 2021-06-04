@@ -8,3 +8,6 @@
 ### version
 - python 3.8.7
 - Django 2.2
+
+### code
+- 이 코드는 집에서 작성중입니다.
